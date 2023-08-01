@@ -1,6 +1,6 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJ6_TmUbOBe8omPjfUDkeoVynre7tbqp-9g&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Sankhadeep Dutta</h1>
-<h3 align="center">A passionate AI and Data Analytics enthusiast.</h3>
+<h3 align="center">A passionate Data Scientist👨‍💻</h3>
 
 - 🌱 I’m currently learning **Tensorflow, Pytoarch**
 
